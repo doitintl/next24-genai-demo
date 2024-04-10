@@ -16,4 +16,8 @@ This is a small script that uses langchain to create a very strict flow for the 
 
 ### load_data.ipynb
 
-Script that allows 
+Helper script to read text files from Google Cloud Storage, embed the text and save the vector into AlloyDB
+
+### testing_pipeline.ipynb
+
+Extra script to showcase a pipeline that will read a set of defined prompts to evaluate the output based on a specific model. The results are saved in google cloud storage.
