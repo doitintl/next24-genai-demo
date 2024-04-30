@@ -21,3 +21,9 @@ Helper script to read text files from Google Cloud Storage, embed the text and s
 ### testing_pipeline.ipynb
 
 Extra script to showcase a pipeline that will read a set of defined prompts to evaluate the output based on a specific model. The results are saved in google cloud storage.
+
+## demo
+
+[Intro Demo](https://drive.google.com/file/d/1Kxpgp4VXevfQgw-Cw2uPe3b6KNmyY9of/view?usp=sharing)
+
+[Main Demo](https://drive.google.com/file/d/1Tu8zLVCnGmKYWLFpqCyzgmPcC0h17m3c/view?usp=sharing)
